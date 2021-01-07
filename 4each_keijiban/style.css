@@ -1,0 +1,178 @@
+body {
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ", sans-serif;
+}
+
+img {
+    width: 450px;
+    height: 100px;
+}
+
+.header_list {
+    background-color: black;
+    color: white;
+    height: 38px;
+    width: 100%;
+}
+
+.header_list li {
+    list-style-type: none;
+    float: left;
+    padding: 10px 10px 10px 40px;
+    font-size: 13px;
+}
+
+main {
+    clear: both;
+}
+
+.main_container {
+    width: 90%;
+}
+
+.left {
+    float: left;
+    width: 70%;
+    height: 1100px;
+    padding: 13px 0px 20px 0px;
+    margin-left: 0px;
+}
+
+.left h1 {
+    border-left: 5px solid black;
+    border-bottom: 5px solid gray;
+}
+
+form {
+    background-color: #fbfbfb;
+    border: 3px solid #ebebeb;
+    width: 890px;
+    margin-bottom: 20px;
+}
+
+form h2 {
+    border-left: 4px solid red;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+form div {
+    padding: 15px;
+}
+
+.text, textarea {
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit {
+    border: 1px solid gray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #797979;
+    border-radius: 5px;
+    border-bottom: 2px solid #484848;
+}
+
+.title1 {
+    background-color: #fbfbfb;
+    border: 3px solid #ebebeb;
+    border-radius: 10px;
+    width: 890px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.title1 h2 {
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 3px solid #ebebeb;
+}
+
+.contents1 {
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.handlename1 {
+    font-size: 15px;
+    padding-top: 10px;
+    margin:5px;
+}
+
+.title2 {
+    background-color: #fbfbfb;
+    border: 3px solid #ebebeb;
+    border-radius: 10px;
+    width: 890px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.title2 h2 {
+    margin-left: 10px;
+    margin-right: 20px;
+    border-bottom: 3px solid #ebebeb;
+}
+
+.contents2 {
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.handlename2 {
+    font-size: 15px;
+    padding-top: 10px;
+    margin:5px;
+}
+
+.right {
+    float: right;
+    width: 30%;
+    height: 1100px;
+    margin-left: 0px;
+    margin-top: 30px;
+}
+
+.right h2 {
+    border-bottom: 2px dotted black;
+    margin-left: 10px;
+    margin-top:20px;
+    margin-right: 20px;
+}
+
+.main_list1 li {
+    list-style-type: none;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+.main_list2 li {
+    list-style-type: none;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+.main_list3 li {
+    list-style-type: none;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    background-color: black;
+    color:white;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
